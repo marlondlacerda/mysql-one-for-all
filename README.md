@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# Boas vindas ao repositório do projeto All For One
+# Boas vindas ao repositório do projeto One For All
 
 <div align="center">
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
